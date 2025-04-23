@@ -5,8 +5,9 @@ It is a console application written in .NET 9.0 to solve the test problem while 
 
 ## Extra things that I added:
 1. Encapsulate the project in a docker container so testers can run it on any machine without having to install .NET 9.0 SDK.
-2. An xUnit Test Project to run Unit tests for the service class.
-3. Git Action CI Pipeline that builds docker-container, builds .NET project and runs Unit Test everytime the main branch is pushed.
+2. An Input Array Generator that creates input array with random lengths so that the project has different result each run.
+3. An xUnit Test Project to run Unit tests for the service class.
+4. Git Action CI Pipeline that builds docker-container, builds .NET project and runs Unit Test everytime the main branch is pushed.
 ![CI Results](CI_Results.png)
 
 ## Getting Started
