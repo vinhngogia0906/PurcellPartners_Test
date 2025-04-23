@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "berjS8BkAH0=",
+  "success": true,
+  "projectFilePath": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\VinhNgo_PurcellPartners_Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinhn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

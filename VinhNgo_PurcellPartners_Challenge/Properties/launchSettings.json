@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VinhNgo_PurcellPartners_Challenge": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
