@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VinhNgo_PurcellPartners_Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54a57970cac8b5236b755a5b2ccdbe9efb020379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b436763d87031aba38f068fd2cb1f9cb32c2c68e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VinhNgo_PurcellPartners_Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VinhNgo_PurcellPartners_Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

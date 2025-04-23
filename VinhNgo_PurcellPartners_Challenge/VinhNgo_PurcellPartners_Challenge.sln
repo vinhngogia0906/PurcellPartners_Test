@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35913.81 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhNgo_PurcellPartners_Challenge", "VinhNgo_PurcellPartners_Challenge.csproj", "{D0183010-5269-42A2-9BF4-E45A5D5B8088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhNgo_PurcellPartners_Challenge.Tests", "..\VinhNgo_PurcellPartners_Challenge.Tests\VinhNgo_PurcellPartners_Challenge.Tests.csproj", "{1D277106-EEFA-4F4D-80F1-2445CB89232F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D0183010-5269-42A2-9BF4-E45A5D5B8088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0183010-5269-42A2-9BF4-E45A5D5B8088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0183010-5269-42A2-9BF4-E45A5D5B8088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D277106-EEFA-4F4D-80F1-2445CB89232F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D277106-EEFA-4F4D-80F1-2445CB89232F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D277106-EEFA-4F4D-80F1-2445CB89232F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D277106-EEFA-4F4D-80F1-2445CB89232F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

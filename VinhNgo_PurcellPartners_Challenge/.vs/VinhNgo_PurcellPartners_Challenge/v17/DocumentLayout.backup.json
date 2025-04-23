@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D277106-EEFA-4F4D-80F1-2445CB89232F}|..\\VinhNgo_PurcellPartners_Challenge.Tests\\VinhNgo_PurcellPartners_Challenge.Tests.csproj|d:\\purcellpartners_test\\vinhngo_purcellpartners_challenge.tests\\findmissingnumberservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|d:\\purcellpartners_test\\vinhngo_purcellpartners_challenge\\services\\findmissingnumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|solutionrelative:services\\findmissingnumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|d:\\purcellpartners_test\\vinhngo_purcellpartners_challenge\\interfaces\\ifindmissingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|solutionrelative:interfaces\\ifindmissingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|d:\\purcellpartners_test\\vinhngo_purcellpartners_challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|d:\\purcellpartners_test\\vinhngo_purcellpartners_challenge\\interfaces\\ifindmissingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|solutionrelative:interfaces\\ifindmissingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0183010-5269-42A2-9BF4-E45A5D5B8088}|VinhNgo_PurcellPartners_Challenge.csproj|d:\\purcellpartners_test\\vinhngo_purcellpartners_challenge\\utils\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +33,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "FindMissingNumberServiceTest.cs",
+              "DocumentMoniker": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge.Tests\\FindMissingNumberServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\VinhNgo_PurcellPartners_Challenge.Tests\\FindMissingNumberServiceTest.cs",
+              "ToolTip": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge.Tests\\FindMissingNumberServiceTest.cs",
+              "RelativeToolTip": "..\\VinhNgo_PurcellPartners_Challenge.Tests\\FindMissingNumberServiceTest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:51:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InvalidInputException.cs",
               "DocumentMoniker": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\Utils\\InvalidInputException.cs",
               "RelativeDocumentMoniker": "Utils\\InvalidInputException.cs",
@@ -47,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FindMissingNumberService.cs",
               "DocumentMoniker": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\Services\\FindMissingNumberService.cs",
               "RelativeDocumentMoniker": "Services\\FindMissingNumberService.cs",
-              "ToolTip": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\Services\\FindMissingNumberService.cs*",
-              "RelativeToolTip": "Services\\FindMissingNumberService.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "ToolTip": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\Services\\FindMissingNumberService.cs",
+              "RelativeToolTip": "Services\\FindMissingNumberService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T11:46:15.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IFindMissingNumber.cs",
               "DocumentMoniker": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\Interfaces\\IFindMissingNumber.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFindMissingNumber.cs",
@@ -73,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "VinhNgo_PurcellPartners_Challenge",
               "DocumentMoniker": "D:\\PurcellPartners_Test\\VinhNgo_PurcellPartners_Challenge\\VinhNgo_PurcellPartners_Challenge.csproj",
               "RelativeDocumentMoniker": "VinhNgo_PurcellPartners_Challenge.csproj",

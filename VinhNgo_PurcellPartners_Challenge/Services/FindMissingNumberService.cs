@@ -8,7 +8,7 @@ using VinhNgo_PurcellPartners_Challenge.Utils;
 
 namespace VinhNgo_PurcellPartners_Challenge.Services
 {
-    internal class FindMissingNumberService : IFindMissingNumber
+    public class FindMissingNumberService : IFindMissingNumber
     {
         public int FindMissingNumber(int[] numbers)
         {
