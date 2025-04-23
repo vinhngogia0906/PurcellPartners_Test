@@ -8,6 +8,7 @@ using VinhNgo_PurcellPartners_Challenge.Utils;
 
 namespace VinhNgo_PurcellPartners_Challenge.Services
 {
+    // Single Responsibility Principle: This class is responsible for finding the missing number in an array.
     public class FindMissingNumberService : IFindMissingNumber
     {
         public int FindMissingNumber(int[] numbers)

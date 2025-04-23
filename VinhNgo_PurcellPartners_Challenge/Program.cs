@@ -7,7 +7,12 @@ namespace VinhNgo_PurcellPartners_Challenge
     {
         static void Main(string[] args)
         {
+
+            // Dependency Inversion Principle: The main program depends on abstractions (interfaces) rather than concrete implementations
+
+            // Liskov Substitution Principle: FindMissingNumberService can be replaced with any class that implements IFindMissingNumber
             IFindMissingNumber findMissingNumberService = new FindMissingNumberService();
+            //  Liskov Substitution Principle: The NumberArrayGenerator class can be replaced with any class that implements INumberArrayGenerator
             INumberArrayGenerator numberArrayGenerator = new NumberArrayGenerator();
             try
             {

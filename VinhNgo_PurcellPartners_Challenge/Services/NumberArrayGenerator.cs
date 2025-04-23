@@ -7,6 +7,7 @@ using VinhNgo_PurcellPartners_Challenge.Interfaces;
 
 namespace VinhNgo_PurcellPartners_Challenge.Services
 {
+    // Single Responsibility Principle: This class is responsible for generating a random input number array.
     public class NumberArrayGenerator : INumberArrayGenerator
     {
         public int[] GenerateRandomArray(int size)
