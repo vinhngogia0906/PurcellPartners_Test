@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  vinhngo_purcellpartners_challenge:
+    build:
+      context: ./VinhNgo_PurcellPartners_Challenge
+      dockerfile: Dockerfile
+    environment:
+      - DOTNET_ENVIRONMENT=Development
